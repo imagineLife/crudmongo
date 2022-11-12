@@ -1,0 +1,24 @@
+{
+  "name": "crudmongo",
+  "version": "0.0.1",
+  "description": "A C.R.U.D API for a Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imagineLife/crudmongo.git"
+  },
+  "keywords": [
+    "crud",
+    "mongo",
+    "mongodb"
+  ],
+  "author": "Eric (Jake)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imagineLife/crudmongo/issues"
+  },
+  "homepage": "https://github.com/imagineLife/crudmongo#readme"
+}
